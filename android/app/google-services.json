@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639085045118",
+    "project_id": "buri-app-official",
+    "storage_bucket": "buri-app-official.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639085045118:android:b0b708c8f15989aa6dbf2f",
+        "android_client_info": {
+          "package_name": "com.example.buri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639085045118-jja5mb875ldbe5p4n8a11k2jgkoc99te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVPzbl_x4oVWIZ8i3L9cfxx0_CgImz42M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639085045118-jja5mb875ldbe5p4n8a11k2jgkoc99te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
